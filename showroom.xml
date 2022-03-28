@@ -1,0 +1,27 @@
+﻿<showroom>
+  <Info>
+    <showroom_id>5</showroom_id>
+    <showroom_name>Apache showroom</showroom_name>
+    <location>london</location>
+  </Info>
+  <Info>
+    <showroom_id>8</showroom_id>
+    <showroom_name>suzuki showroom</showroom_name>
+    <location>london</location>
+  </Info>
+  <Info>
+    <showroom_id>9</showroom_id>
+    <showroom_name>KTM showroom</showroom_name>
+    <location>london</location>
+  </Info>
+  <Info>
+    <showroom_id>4</showroom_id>
+    <showroom_name>Hero showroom</showroom_name>
+    <location>london</location>
+  </Info>
+  <Info>
+    <showroom_id>3</showroom_id>
+    <showroom_name>Bajaj showroom</showroom_name>
+    <location>london</location>
+  </Info>
+</showroom>

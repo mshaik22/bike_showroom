@@ -1,0 +1,27 @@
+﻿<Store_details>
+  <Info>
+    <bike_id>11</bike_id>
+    <no_of_sales>100</no_of_sales>
+    <available_bike>10</available_bike>
+  </Info>
+  <Info>
+    <bike_id>12</bike_id>
+    <no_of_sales>50</no_of_sales>
+    <available_bike>5</available_bike>
+  </Info>
+  <Info>
+    <bike_id>13</bike_id>
+    <no_of_sales>25</no_of_sales>
+    <available_bike>25</available_bike>
+  </Info>
+  <Info>
+    <bike_id>14</bike_id>
+    <no_of_sales>30</no_of_sales>
+    <available_bike>25</available_bike>
+  </Info>
+  <Info>
+    <bike_id>15</bike_id>
+    <no_of_sales>60</no_of_sales>
+    <available_bike>25</available_bike>
+  </Info>
+</Store_details>

@@ -1,0 +1,27 @@
+﻿<bikemodel>
+  <Info>
+    <bikeid>1</bikeid>
+    <model_name>Apache RTR 160</model_name>
+    <price>100000</price>
+  </Info>
+  <Info>
+    <bikeid>2</bikeid>
+    <model_name>Apache RTR 160 4V</model_name>
+    <price>400000</price>
+  </Info>
+  <Info>
+    <bikeid>3</bikeid>
+    <model_name>SUZUKI GIXXER</model_name>
+    <price>300000</price>
+  </Info>
+  <Info>
+    <bikeid>4</bikeid>
+    <model_name>Apache RR 310</model_name>
+    <price>300000</price>
+  </Info>
+  <Info>
+    <bikeid>5</bikeid>
+    <model_name>KTM 200 Duke</model_name>
+    <price>500000</price>
+  </Info>
+</bikemodel>

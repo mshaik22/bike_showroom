@@ -1,0 +1,32 @@
+﻿<brand>
+  <Info>
+    <brand_id>Apace1</brand_id>
+    <brand_name>Apache</brand_name>
+    <release_date>2022-05-05</release_date>
+    <p_price>100000</p_price>
+  </Info>
+  <Info>
+    <brand_id>suzuki1</brand_id>
+    <brand_name>suzuki</brand_name>
+    <release_date>2022-05-10</release_date>
+    <p_price>40000</p_price>
+  </Info>
+  <Info>
+    <brand_id>ktm1</brand_id>
+    <brand_name>KTM</brand_name>
+    <release_date>2022-05-05</release_date>
+    <p_price>30000</p_price>
+  </Info>
+  <Info>
+    <brand_id>hero1</brand_id>
+    <brand_name>Hero MotoCorp</brand_name>
+    <release_date>2022-05-02</release_date>
+    <p_price>20000</p_price>
+  </Info>
+  <Info>
+    <brand_id>Bajaj1</brand_id>
+    <brand_name>Bajaj Auto</brand_name>
+    <release_date>2022-05-15</release_date>
+    <p_price>10000</p_price>
+  </Info>
+</brand>

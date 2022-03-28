@@ -1,0 +1,32 @@
+﻿<employee>
+  <Info>
+    <emp_id>e1</emp_id>
+    <emp_name>jokky</emp_name>
+    <emp_location>london</emp_location>
+    <job_role>manager</job_role>
+  </Info>
+  <Info>
+    <emp_id>e2</emp_id>
+    <emp_name>tom</emp_name>
+    <emp_location>london</emp_location>
+    <job_role>IT_manager</job_role>
+  </Info>
+  <Info>
+    <emp_id>e3</emp_id>
+    <emp_name>rocky</emp_name>
+    <emp_location>london</emp_location>
+    <job_role>engineer</job_role>
+  </Info>
+  <Info>
+    <emp_id>e4</emp_id>
+    <emp_name>jonny</emp_name>
+    <emp_location>london</emp_location>
+    <job_role>stuff</job_role>
+  </Info>
+  <Info>
+    <emp_id>e5</emp_id>
+    <emp_name>mitchel</emp_name>
+    <emp_location>london</emp_location>
+    <job_role>supervisor</job_role>
+  </Info>
+</employee>
